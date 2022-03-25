@@ -8,7 +8,7 @@ Without further ado, let’s get started on creating our wallet.
 
 ## Setting up development environment
 
-To create our CLI application, we’ll be using the Go language. Before we proceed, make sure you’ve a working Go runtime on your device. Let’s get started with setting up our project!
+To create our CLI application, we’ll be using the Go language. Before we proceed, make sure you’ve got a working Go runtime on your device. Let’s get started with setting up our project!
 
 
 We’ll be using the Cobra go package to create our CLI scaffolding i.e. setting up our project skeleton for us that’ll be helpful to create our CLI application. To do so, run the following command
